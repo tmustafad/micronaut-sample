@@ -1,5 +1,0 @@
-profile: service
-defaultPackage: micronaut.helloworld
----
-testFramework: junit
-sourceLanguage: java

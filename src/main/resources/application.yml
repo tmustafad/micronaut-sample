@@ -1,5 +1,0 @@
-micronaut:
-  application:
-    name: micronaut-helloworld
-  server:
-     port: 1907
